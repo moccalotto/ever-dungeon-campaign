@@ -1,4 +1,18 @@
-### Spelunkers
+==== Gender roles
+
+Women hold most positions of power. Society, especially the upper echelons,
+tend to judge brawns and physical strength as being base and primitive. This
+means that men tend to hold the jobs that require physical strength and brawns
+whereas women tend to hold jobs that require intelligence and guile.
+
+It is harder for males to acquire learning and get into schools because of the
+prejudice that they are somehow stupid and have weaker minds than women. For
+this reason there are more female mages politicians, scholars, doctors,
+healers, artists, engineers, alchemists, and lawyers than male ones. Conversely
+males tend to dominate the fields of physical labor, construction, cooking, and
+various services.
+
+==== Spelunkers
 
 Spelunkers make a living in the Dungeon in some way. This may be as miners,
 guides, explorers, or just old school adventurers. Spelunkers have a strange
@@ -7,15 +21,19 @@ the same time. And since the average life span of a spelunker is very short,
 they usually have trouble finding spouses. However, veteran spelunkers often
 have a chance at reaching good societal standings.
 
-### Nobility
+==== Nobility
 
-§§§ Birth right, etc.
+Women of noble birth often pursue careers as politicians, guild leaders,
+scholars, mages, investors, etc. Men of noble birth are often find careers
+that, while not seen as primitive, is not directly desirable by women. It is
+not uncommon for noble men to lead expeditions into the Dungeon, dabble in
+investments or just laze around and enjoying life as the trophies they are.
 
 
-### City Constabulary
+==== City Constabulary
 
 The city constables are the City's only police force. Their jurisdiction is
-solely aboveground, and does not include Edgetown and Pit City.  Constables are
+solely aboveground, and does not include Edgetown and Pit City. Constables are
 not paid especially well, but they are given adequate housing in the
 constabulary barracks, they are well fed, and they have no other duties.
 Moreover, it is seen as a sign of patriotism to have served as a constable. On
@@ -28,10 +46,10 @@ difference in the city and in the constabulary.
 
 The most typical employee in the constabulary is a constable, but other
 professions are also represented. For instance, the constabulary employs
-lawyers, clerks, smiths, couriers, and even mages.
+lawyers, clerks, smiths, couriers, and even mages. 
+There are an abundance of noble men amongst the officers in the constabulary.
 
-
-#### Mages
+===== Mages
 
 Mages are essential to the City; they can purify and improve the resources and
 materiel extracted from the Dungeon; they can prevent and even cure disease;
@@ -39,13 +57,13 @@ they can make food last longer; they can assist in the construction of
 everything from large buildings to tiny tools.
 
 
-#### Healers 
+===== Healers 
 
 §§§ (clerics) can make a good living by healing, creating food, creating and
 purifying water, and other societal goods.
 
 
-#### Importers
+===== Importers
 
 Importers are a special kind of merchant that trade directly with spelunkers to
 purchase the products and materials from the Dungeon. Importers then sell on
@@ -54,19 +72,17 @@ often commission the finding of certain materials. Some crafters are also
 importers. However this means that the crafter will have to pay for memberships
 in both the Crafters guild and the Importers guild.
 
-#### Crafters
+===== Crafters
 
 A crafter or craftsman is a person that is engaged in the industries of the
 city. Craftsmen usually trade with merchants and importers, but may also trade
 with spelunkers directly.
 
 
-#### Merchants
+===== Merchants
 
 As a rule, merchants are the only type of vendor that can deal with the public.
 Crafters may only sell their goods to merchants, and merchants usually sell
 their goods to the public. A crafter (or importer) that sells anything directly
 to the public will have to a) be a member of the Merchants guild or b) pay a
 hefty fee for doing so.
-
-

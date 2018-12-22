@@ -34,50 +34,50 @@ part of their structure. It is not uncommon to see long tall buildings where one
 side was once the outer wall of the city.
 
 
-## The Pit and Pit City
+==== The Pit and Pit City
 
 include::ch01-02-pit-city.asciidoc[]
 
 
-## Edgetown
+==== Edgetown
 
 include::ch01-03-edgetown.asciidoc[]
 
 
-## The Bedrock
+==== The Bedrock
 
 include::ch01-04-bedrock.asciidoc[]
 
 
-## Resources
+==== Resources
 
 include::ch01-05-resources.asciidoc[]
 
 
-## Economy
+==== Economy
 
 include::ch01-06-economy.asciidoc[]
 
 
-## The People
+==== The People
 
 include::ch01-07-people.asciidoc[]
 
-## The Guilds
+==== The Guilds
 
-### Importers Guild
+===== Importers Guild
 
-### Merchants Guild
+===== Merchants Guild
 
-### Mages Guild
+===== Mages Guild
 
-### Templars Guild
+===== Templars Guild
 
-### Crafters Guild
+===== Crafters Guild
 
-## Options
+==== Options
 
-### Conflicted City
+===== Conflicted City
 
 The city is riddled with conflict, corruption, politics and drama. Guilds
 constantly compete for power and resources. It is usually the adventurers that
@@ -91,4 +91,3 @@ taxed more than once if they do not have the correct paper work. When you enter
 the Dungeon you get a receipt of your equipment, and anything you bring back
 other than the stated equipment is taxed. You do not get a rebate in case of
 lost or expended equipment.
-
