@@ -1,0 +1,94 @@
+The city is enormous; most citizens live in very tall buildings, and the more
+rich and powerful of course live in the top floors. Some towers and buildings
+are 10 stories tall or more. The tallest stands 19 stories tall.
+
+Magic is used to assist in the creation and maintenance of these buildings,
+along with their supporting infrastructure such as elevators, walkways, etc.
+
+There are walkways high up on the outside of most buildings in the more wealthy
+neighbourhoods. These walkways, called top streets or sky streets, are usually
+not connected directly to the street level, ensuring that only people who have
+access to the top levels (i.e. the rich) can access the top streets.
+
+A tall and very wide wall surrounds the city to keep the hostile Forest at bay.
+If these magically reinforced walls weren't there, the trees of the Forest
+would invade and directly attack the City and its inhabitants. The walls are
+usually patrolled, although not because the Forest would actively engage the
+walls because of their defensive magic, but to ensure that no miscreants try
+and climb over the walls, and possibly provoke the creatures of the Forest.
+Because on very rare occasions, these enterprising citizens have been thrown
+back over the wall with such force as to kill citizens splat all over the
+place, and sometimes even damaging buildings. Who or what tosses the citizens
+back over the wall is not really understood, nor is the reason behind it.
+
+The City can be expanded by so-called Land-Shards. These rare artifacts can
+only be found in the Dungeon. They are magical devices that can drive away the
+Forest and, for a short time, expose an area of raw bedrock. The city workers
+must then in all haste construct a temporary magical bulwark against the
+Forest. After that, a more permanent wall can be constructed. And only then can
+the area be used as part of the City proper.
+
+Because of the incremental expansion of the City, and the constant need to have
+an outer wall, many buildings have been build using the former City wall as 
+part of their structure. It is not uncommon to see long tall buildings where one
+side was once the outer wall of the city.
+
+
+## The Pit and Pit City
+
+include::ch01-02-pit-city.asciidoc[]
+
+
+## Edgetown
+
+include::ch01-03-edgetown.asciidoc[]
+
+
+## The Bedrock
+
+include::ch01-04-bedrock.asciidoc[]
+
+
+## Resources
+
+include::ch01-05-resources.asciidoc[]
+
+
+## Economy
+
+include::ch01-06-economy.asciidoc[]
+
+
+## The People
+
+include::ch01-07-people.asciidoc[]
+
+## The Guilds
+
+### Importers Guild
+
+### Merchants Guild
+
+### Mages Guild
+
+### Templars Guild
+
+### Crafters Guild
+
+## Options
+
+### Conflicted City
+
+The city is riddled with conflict, corruption, politics and drama. Guilds
+constantly compete for power and resources. It is usually the adventurers that
+suffer when the rich and powerful citizens compete against each other. For
+instance, adventurers have to *pay* to get/accept quests. Only if they return
+will they get their deposit back as well as the reward.
+
+If adventurers bring loot up top that is not directly sanctioned via a quest,
+it is heavily taxed by the guilds. Adventurers risk having their possessions
+taxed more than once if they do not have the correct paper work. When you enter
+the Dungeon you get a receipt of your equipment, and anything you bring back
+other than the stated equipment is taxed. You do not get a rebate in case of
+lost or expended equipment.
+

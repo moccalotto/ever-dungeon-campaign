@@ -1,0 +1,30 @@
+:author:  Kim Ravn Hansen
+
+= Ever Dungeon
+
+The world consists on an enormous medieval city with a never-ending, living
+dungeon underneath it. The city is surrounded by an endless Forest on three
+sides and black Void to the north; venturing into either is fatal, so procuring
+resources from the Dungeon is the only way for the City to survive.
+
+The history of the City, reason it is where it is, why the Dungeon is there,
+and what the Forest and the Void are is not really understood. It is said that
+the world was crushed by an angry god, and that the City was the only thing
+that survived. Scholars speculate that the Forest is the remnants of a long
+dead god of nature, and that the Void is a gate to the heavens. None of these
+hypotheses have been confirmed.
+
+**Designer's Note:** While this is high fantasy setting, it could easily be
+adapted for other styles such as modern, futuristic, cyberpunk, steampunk,
+superhero, etc. The cataclysmic background could be caused by an AI
+singularity, warfare, aliens, etc., and magic could be replaced with advanced
+technology.
+
+== The City
+
+include::ch01-the-city.asciidoc[]
+
+
+== License
+
+include::license.asciidoc[]
