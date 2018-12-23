@@ -28,6 +28,3 @@ include::ch01-the-city.asciidoc[]
 == License
 
 include::license.asciidoc[]
-
-
-See <<_the_city>>

@@ -59,8 +59,10 @@ everything from large buildings to tiny tools.
 
 ===== Healers 
 
-§§§ (clerics) can make a good living by healing, creating food, creating and
-purifying water, and other societal goods.
+Healers (mages who specialize in healing magic) and doctors can make a very
+good living in the City. Their most important role is preventing the spread
+of diseases. On top of that, healers have more than enough to do with curing
+diseases, healing injuries, and purifying food and water.
 
 
 ===== Importers
