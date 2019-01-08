@@ -56,6 +56,12 @@ materiel extracted from the Dungeon; they can prevent and even cure disease;
 they can make food last longer; they can assist in the construction of
 everything from large buildings to tiny tools.
 
+Because mages are so valuable to the City, a mage can make a very good living.
+However, at least a quarter of mages are nobles, who do not need wages, and so
+mainly engage in scholarly pursuits, which is very prestigious amongst the
+upper echelons of society. This effectively makes mages even more rare and
+valuable. Since a mage can make such a good living in the City, not many mages
+choose to become spelunkers.
 
 ===== Healers 
 

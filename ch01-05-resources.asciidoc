@@ -50,19 +50,19 @@ corpse brought up from the Dungeon. This means that they are skinned so the
 skin can be used leather. Fatty tissue is rendered into oils and soaps, certain
 soft tissue is made into glue, bones are used in the production of cement or as
 parts of tools.  No part of a corpse is left unused. Even the blood can be used
-to make blood sausage.  It must be said that human meat is normally not
-consumed by humans in the City. However, it is sometimes used as bait to lure
-out monsters in the Dungeon - and it is sometimes sterilized by magic and used
-to feed livestock. During famine and other bad periods, the lower classes
-sometimes have to resort to eating human flesh.
+as bait, to make blood sausage, or be purified into potable water. Human meat
+is normally not consumed by humans in the City, but it is sometimes used as
+bait to lure out monsters in the Dungeon; sometimes it is sterilized by magic
+and used to feed livestock. During famine and other bad periods, the lower
+classes sometimes have to resort to eating human flesh.
 
 ==== Water
 
 The Dungeon is home to many lakes and streams. The main trouble is that these
-often serve as watering holes for a number of monsters. Some caves and caverns
-have water dripping from the ceilings or slowly condensing on the walls. Some
-spelunkers make a living by collecting that water. Even though it is a slow
-process, it is relatively safe and it only requires a few simple containers.
+often serve as watering holes for monsters. Some caves and caverns have water
+dripping from the ceilings or slowly condensing on the walls and some
+spelunkers make a living by collecting that water. It is a slow process, but it
+is relatively safe and it only requires a few simple containers.
 
 Magic and alchemy can be used to purify water and even distil water from blood
 and other fluids.

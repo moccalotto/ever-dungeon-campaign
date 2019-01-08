@@ -3,7 +3,7 @@
 = Ever Dungeon
 
 The world consists on an enormous medieval city with a never-ending, living
-dungeon underneath it. The city is surrounded by an endless Forest on three
+Dungeon underneath it. The city is surrounded by an endless Forest on three
 sides and black Void to the north; venturing into either is fatal, so procuring
 resources from the Dungeon is the only way for the City to survive.
 
